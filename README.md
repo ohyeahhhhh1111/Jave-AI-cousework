@@ -7,4 +7,5 @@
 在訓練MLP的前置作業都設定好後，我開始做訓練，起初我發現結果並非如預期般的優秀。因此我使用了多種回歸函數來做測試例如L2Loss與Cross Entropy Loss。
 
 以下是我測試出來最好的超參數
+
 Hidden Size = 128, Output Size = 10, Learning Rate = 0.1314, step = 450, drop = 0.0, epoch = 500, batch size = 32, Loss function = CrossEntropyLoss
